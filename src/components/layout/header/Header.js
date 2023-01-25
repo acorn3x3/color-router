@@ -6,13 +6,13 @@ export default function Header() {
   return (
     <div className="header">
       <p className="redish">
-        <NavLink to={`/rgb/111/111/111`}>Link 1</NavLink>
+        <NavLink to={`/rgb/255/0/125`}>Redish</NavLink>
       </p>
       <p className="greenish">
-        <NavLink to={`/rgb/222/222/222`}>Link 2</NavLink>
+        <NavLink to={`/rgb/155/255/222`}>Greenish</NavLink>
       </p>
       <p className="blueish">
-        <NavLink to={`/rgb/333/333/333`}>Link 3</NavLink>
+        <NavLink to={`/rgb/125/125/255`}>Blueish</NavLink>
       </p>
     </div>
   );

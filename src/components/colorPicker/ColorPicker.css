@@ -1,0 +1,19 @@
+.redish .active {
+  color: rgb(255, 0, 120);
+}
+.blueish .active {
+  color: rgb(44, 31, 225);
+}
+.greenish .active {
+  color: rgb(61, 226, 78);
+}
+
+main {
+  height: 90%;
+  background-size: auto;
+}
+
+h1 {
+  size: 100%;
+  height: 100vh;
+}
