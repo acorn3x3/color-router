@@ -1,3 +1,7 @@
 .header {
   color: aquamarine;
 }
+
+p {
+  display: flex;
+}

@@ -9,10 +9,10 @@ export default function Header() {
         <NavLink to={`/rgb/255/0/125`}>Redish</NavLink>
       </p>
       <p className="greenish">
-        <NavLink to={`/rgb/155/255/222`}>Greenish</NavLink>
+        <NavLink to={`/rgb/155/255/122`}>Greenish</NavLink>
       </p>
       <p className="blueish">
-        <NavLink to={`/rgb/125/125/255`}>Blueish</NavLink>
+        <NavLink to={`/rgb/12/125/255`}>Blueish</NavLink>
       </p>
     </div>
   );
